@@ -10,8 +10,6 @@ exports.run = (client, message, args) => {
       .addField('Member Count', `${message.guild.memberCount}`, true)
       .addField('Server Region', message.guild.region)
       .addField('Created At', message.guild.createdAt.toLocaleString(), true)
-      .addField("Verification Level: ", `${verificationLevels[message.guild.verificationLevel]}`)
-      .addField('Roles', role, true)
       .setFooter('Fox-Bot | Requested by ' + message.author.tag);
       message.channel.send({embed}) 
 }

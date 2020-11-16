@@ -1,5 +1,10 @@
 {
     "prefix": "?",
     "token": "NzY2ODM1ODYxMTYwNzIyNDgy.X4pJjA.LJlWKRe4nZgtdC3LhtvM0TzxdrE",
-    "Orange": "#FF9A21"
+    "Orange": "#FF9A21",
+        "discord_owner_id": "349282295695409160",
+        "tenorAPI": "APQVR00NDN7S",
+        "newsAPI": "2c699d56168a49579db4fc71f89cbfd5",
+        "youtubeAPI": "AIzaSyAHReIUtOXUbQkNIh7hUQuwKdCrQxbiwcY"
+    
     }
